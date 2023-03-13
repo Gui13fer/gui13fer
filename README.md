@@ -1,6 +1,6 @@
 ## Olá! eu sou Guilherme Fernandes👋
 
-
+- 🏫 Cursando Analise e desenvolvimento de sistema!
 - 🌱 Estudando JavaScript!
 - 👯 Procuro estágio na area de programação!
 - 🤔 Procuro ajuda com cursos e oportunidades !
